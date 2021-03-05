@@ -197,5 +197,6 @@ public class DB4OMagazineManagerV02 {
 			}
 		});
 		db.delete(articles);
+
 	}
 }	
